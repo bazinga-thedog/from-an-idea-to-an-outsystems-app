@@ -4,7 +4,7 @@ The episode has already been uploaded in YT:
 * [Part I - Data Model, Roles, Recover admin password, List and Create Match Screens](https://youtu.be/X8aQ6hHV7F0?feature=shared&t=10)
 
 Sections in the video:
-* Requirements for the mobile app
+* Requirements for the mobile app - [check the notion file](https://antique-barometer-e9c.notion.site/Padel-Personal-Coach-631868637e154809a851169b8d566fdc)
 * Creating the data model
 * Create a screen protected with a specific role
 * Reset the admin password in Service Center
