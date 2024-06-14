@@ -18,4 +18,4 @@ Sections in the video:
 * Use the RESTful API and import data in a CSV using a Python script
 * Use natural language to fine tune the sort definition in an aggregate
 
-<img src="https://github.com/bazinga-thedog/from-an-idea-to-an-outsystems-app/assets/172836307/becd59f0-01c9-4f41-9b99-1762570b7d52" width="700" />
+<img src="https://github.com/bazinga-thedog/from-an-idea-to-an-outsystems-app/assets/172836307/b5adf375-569a-47df-95ef-d04cd9f09e75" width="700" />
