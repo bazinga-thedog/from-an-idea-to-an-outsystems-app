@@ -1,0 +1,9 @@
+started_on,duration,always_same_opponent,match_type,location,temperature,ball_quality
+2024-05-11T11:30:00Z,100,false,Mix,2,23,Old
+2024-05-13T21:30:00Z,90,true,Regular Game,3,19,Old
+2024-05-16T21:30:00Z,90,false,Mix,1,19,Half-new
+2024-05-22T22:30:00Z,90,false,Mix,4,19,Half-new
+2024-05-01T11:30:00Z,100,false,Mix,2,26,Half-new
+2024-06-05T22:30:00Z,90,false,Mix,4,20,New
+2024-06-06T13:00:00Z,90,true,Regular Game,1,24,Half-new
+2024-06-08T11:30:00Z,100,true,Mix,2,23,New
