@@ -6,6 +6,7 @@ The end goal is an OutSystems application called Padel Personal Coach, a compani
 All the episodes will be available in YT and check all the code generated until the end of each episode in the repo's folders:
 * [Part I - Data Model, Roles, Recover admin password, List and Create Match Screens](https://youtu.be/X8aQ6hHV7F0?feature=shared&t=10)
 * [Part II - RESTful API, API test in Python with pytest and Natural Language Querying](https://youtu.be/ohxSvITJsZk?feature=shared&t=20)
+* [Part III - Creating API Key manager app, importing external JS Library](https://youtu.be/OxUBDOeESaA?feature=shared&t=15)
 
 Bazinga the dog could be an alter-ego, but it's actually my dog. Using his identity allows me not to be liable of anything I do or make (unless it is something worth of an award).I really like software development, maybe the digital version of pottery!
 
