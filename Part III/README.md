@@ -17,4 +17,4 @@ Sections in the video:
 * Importing an external JavaScript library to document RESTful APIs
 * Using CSS to fine tune the API documentation page
 
-<img src="https://github.com/bazinga-thedog/from-an-idea-to-an-outsystems-app/assets/172836307/b5adf375-569a-47df-95ef-d04cd9f09e75" width="700" />
+<img src="https://github.com/bazinga-thedog/from-an-idea-to-an-outsystems-app/assets/172836307/b5a21e6a-add4-4533-b756-bfee6987952b" width="700" />
