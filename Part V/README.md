@@ -18,3 +18,5 @@ Sections in the video:
 * Implement boundaries while dragging the drawer
 * Implement the animation to close or open drawer depending on where it is released
 * Adding the match list to the drawer content
+
+<img src="https://github.com/bazinga-thedog/from-an-idea-to-an-outsystems-app/assets/172836307/fefc604f-3a1b-4a0a-8d8c-47f6f0ee1ce7" width="700" />
