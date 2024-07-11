@@ -8,6 +8,7 @@ All the episodes will be available in YT and check all the code generated until 
 * [Part II - RESTful API, API test in Python with pytest and Natural Language Querying](https://youtu.be/ohxSvITJsZk?feature=shared&t=20)
 * [Part III - Creating API Key manager app, importing external JS Library](https://youtu.be/OxUBDOeESaA?feature=shared&t=15)
 * [Part IV - Breaking the monolith - a tale of refactoring](https://youtu.be/iHhPsBWxQCE?feature=shared&t=10)
+* [Part V - New look and feel with animations](https://youtu.be/3douyT991HM?feature=shared&t=10)
 
 Bazinga the dog could be an alter-ego, but it's actually my dog. Using his identity allows me not to be liable of anything I do or make (unless it is something worth of an award).I really like software development, maybe the digital version of pottery!
 
