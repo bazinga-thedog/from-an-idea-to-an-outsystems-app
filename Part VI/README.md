@@ -19,4 +19,4 @@ Sections in the video:
 * Showing how to use Paint Rendering feature of Chrome Dev Tools and fix an issue with animation
 * Fixing an issue cause by using client actions and JavaScript to manipulate DOM, using $resolve();
 
-<img src="https://github.com/bazinga-thedog/from-an-idea-to-an-outsystems-app/assets/172836307/0845a939-790c-47d6-ac80-106bc8876078" width="300">
+<img src="https://github.com/user-attachments/assets/9306b1a7-66c6-474f-9d9f-180a957e6c46" width="300">
