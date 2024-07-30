@@ -18,3 +18,5 @@ Sections in the video:
 * Transform cards into a reusable block with Ripple effect on card click
 * Showing how to use Paint Rendering feature of Chrome Dev Tools and fix an issue with animation
 * Fixing an issue cause by using client actions and JavaScript to manipulate DOM, using $resolve();
+
+<img src="https://github.com/bazinga-thedog/from-an-idea-to-an-outsystems-app/assets/172836307/0845a939-790c-47d6-ac80-106bc8876078" width="300">
