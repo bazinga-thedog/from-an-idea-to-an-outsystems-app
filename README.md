@@ -11,6 +11,7 @@ All the episodes will be available in YT and check all the code generated until 
 * [Part V - New look and feel with animations](https://youtu.be/3douyT991HM?feature=shared&t=10)
 * [Part VI - Finished Home Screen](https://youtu.be/nKT-IrxS3uU?feature=shared&t=11)
 * [Part VII - Dynamic questions in Register Game Details](https://youtu.be/sYYT3EV2aUs?feature=shared&t=10)
+* [Part VIII - Sync data to local entities](https://youtu.be/p3VUm-CA0HI?feature=shared&t=10)
 
 Bazinga the dog could be an alter-ego, but it's actually my dog. Using his identity allows me not to be liable of anything I do or make (unless it is something worth of an award).I really like software development, maybe the digital version of pottery!
 
