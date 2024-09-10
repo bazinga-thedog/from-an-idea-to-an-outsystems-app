@@ -10,4 +10,5 @@ Sections in the video:
 * Importing the necessary scripts for Login button
 * Adding the JavaScript to generate the Login button
 * Debugging the content of a JWT
+* Login the correct user based on Google authentication
 * Using Client ID as site property and not hardcoded
