@@ -5,7 +5,6 @@ The episode has already been uploaded in YT:
 
 Sections in the video:
 * Review what was done so far
-* Review what was done so far
 * Check documentation to use Google Login 
 * Creating Google credentials for OAuth 2.0
 * Importing the necessary scripts for Login button
